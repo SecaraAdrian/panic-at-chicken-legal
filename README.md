@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.numele_tau.jocul_tau" target="_blank">
+      <a href="https://play.google.com/store/apps/details?id=com.secax.puiulpanicat" target="_blank">
         <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">
       </a>
       <br/>
